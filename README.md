@@ -38,7 +38,7 @@ pkg install git
 pkg install nano
 ```
 ```
-git clone https://github.com/rahatmals1/notpixel_auto_watch_ads.git
+git clone https://github.com/YTforestarmy/notpixelads.git
 ```
 ```
 cd notpixel_auto_watch_ads
@@ -70,4 +70,4 @@ patchelf --add-needed libpython3.10.so.1.0 pyarmor_runtime_004817/android_aarch6
 python3.10 main.py
 ```
 
-💥 Full Tutorial In YouTube Channel : <a href="https://youtu.be/wFqosKUHbRc?si=twu9eYVE0LjO03d1">Click Here</a>
+💥 Full Tutorial In YouTube Channel : <a href="https://youtube.com/forestarmy">Click Here</a>
